@@ -1,4 +1,5 @@
 # AI Travel Analyst
+🚀 **Live Interactive Dashboard:** [Click here to view the SkyCast Web App](https://parthdiyora22-ai-travel-analyst-app-ucmffv.streamlit.app/)
 
 ## Project Overview
 This project is part of the MIC AIML Department Recruitment Challenge (Track 3: Data Science and Visualization - Part 1). It focuses on exploring and analyzing flight pricing data to understand what drives ticket costs.
